@@ -13,7 +13,7 @@ Data Analyst with expertise in data analysis, marketing analytics, automation, a
 
 📚 Projects
 
-Welcome to my [portfolio] (https://github.com/jiao-xx/Portfolio), where I showcase projects that highlight my expertise in data-driven solutions 
+Welcome to my [portfolio](https://github.com/jiao-xx/Portfolio), where I showcase projects that highlight my expertise in data-driven solutions 
 
 🌟 Let's Connect!
 
