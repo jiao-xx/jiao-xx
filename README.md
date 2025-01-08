@@ -17,4 +17,4 @@ Welcome to my portfolio, where I showcase projects that highlight my expertise i
 
 🌟 Let's Connect!
 
-LinkedIn: https://www.linkedin.com/in/lorajiao/
+- [LinkedIn](https://www.linkedin.com/in/lorajiao/)
