@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Hello, I'm Lora Jiao
+Hello, I'm Lora Jiao.
+
 Data Analyst with expertise in data analysis, marketing analytics, automation, and business intelligence. I specialize in uncovering actionable insights, streamlining reporting processes, and creating impactful visualizations to empower data-driven decision-making.
 
 📊 Skills
